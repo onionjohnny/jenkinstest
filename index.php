@@ -9,4 +9,6 @@
         $x++;
     }
 
+    echo('And that is the end');
+
 ?>
