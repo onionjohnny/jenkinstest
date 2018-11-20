@@ -8,5 +8,7 @@
         echo ($x." - Added another line @ 10:13 directly in GIT - $y lines<br />");
         $x++;
     }
+    
+    echo('End added by onionjohnny');
 
 ?>
