@@ -10,5 +10,6 @@
     }
     echo('another line added in GitHub');
     echo('End added by onionjohnny');
+    echo('Will this fail as there is a local change not pushed to here');
 
 ?>
